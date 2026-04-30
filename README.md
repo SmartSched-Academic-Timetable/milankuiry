@@ -36,7 +36,7 @@ Host Domain	github.com
   ESLint 9.9.1 - Linting
   TypeScript 5.5.3 - Type checking
   Autoprefixer 10.4.18 - CSS vendor prefix automation
-  
+ ''' text 
 Project Structure
 Code
 ├── src/
@@ -54,7 +54,7 @@ Code
 ├── supabase/          (Supabase configuration)
 └── .bolt/             (Bolt IDE config)
 
-
+'''
 
 SmartSched Academic Timetable & Room Allocation System using:
 
