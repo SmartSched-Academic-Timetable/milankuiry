@@ -36,7 +36,8 @@ Host Domain	github.com
   ESLint 9.9.1 - Linting
   TypeScript 5.5.3 - Type checking
   Autoprefixer 10.4.18 - CSS vendor prefix automation
- ''' text 
+ ` ` ` text 
+ 
 Project Structure
 Code
 ├── src/
@@ -51,11 +52,9 @@ Code
 ├── vite.config.ts
 ├── tailwind.config.js
 ├── index.html
-├── supabase/          (Supabase configuration)
+├── supabase/         (Supabase configuration)
 └── .bolt/             (Bolt IDE config)
-
-'''
-
+` ` ` 
 SmartSched Academic Timetable & Room Allocation System using:
 
 Frontend Stack: React + TypeScript + Tailwind CSS + Vite
